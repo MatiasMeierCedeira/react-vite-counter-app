@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas First App Should make a match wiht the snapshot 1`] = `
+<div>
+  <h1>
+    Soy el Maty
+  </h1>
+  <p>
+    Fernando Herrera
+  </p>
+</div>
+`;
+
+exports[`Pruebas First App Should make a match wiht the snapshot: Soy el Maty 1`] = `
+<div>
+  <h1>
+    Soy el Maty
+  </h1>
+  <p>
+    Fernando Herrera
+  </p>
+</div>
+`;
+
+exports[`Pruebas First App Validación de parametros con snapshot 1`] = `
+<div>
+  <h1>
+    Soy el Maty
+  </h1>
+  <p>
+    Fernando Herrera
+  </p>
+</div>
+`;

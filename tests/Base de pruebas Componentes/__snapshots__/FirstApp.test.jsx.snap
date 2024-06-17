@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas First App Validación de parametros con snapshot 1`] = `
+<div>
+  <h1
+    data-testid="test-title"
+  >
+    Soy el Maty
+  </h1>
+  <p>
+    Fernando Herrera
+  </p>
+</div>
+`;
